@@ -8,4 +8,4 @@ Features:
 - Intuitive with 4 mode view for each numeral.
 ![](http://mrpear.com/wp-content/uploads/2017/05/regcalc-820x527.png)
 
-If you have any problems with using RegCalc or want to add more feature, please comment bellow or contact with me: lengocthuong15@gmail.com
+
